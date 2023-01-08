@@ -1,0 +1,31 @@
+
+.main{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+.head{
+    border: 2px solid black;
+   
+    
+}
+.h-content{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 5%;
+    font-size: x-large;
+    letter-spacing: 0.1em;
+    font-weight: 900px;
+}
+.mid{
+  font-size: larger;
+  padding-left: 2%;
+  
+}
+.foot{
+
+    font-size: x-large;
+    padding-left: 2%;
+    
+}
+
